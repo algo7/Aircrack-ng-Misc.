@@ -1,5 +1,6 @@
 # Aircrack-ng-Misc.
-## Wrapper scripts for Aircrack-ng suit to simplify its operation. All scripts should be run as root.
+## Wrapper scripts for Aircrack-ng suit to simplify its operation. 
+## All scripts should be run as root.
 
 ### monitor_mode.sh
 List all the interfaces available on the device. Enter the desire interface. A file called `airmon.sh` will be generated. Run it afterward to enable the monitor mode.
